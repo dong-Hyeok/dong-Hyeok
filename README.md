@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=안녕하세요!!&fontSize=70)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong-Hyeok)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center>
+
