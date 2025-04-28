@@ -1,5 +1,6 @@
-👋  Hi there! I'm a mobile app developer specializing in Android and Flutter.📱  
-
+Hi there! 👋 <br>
+I'm a mobile app developer specializing in Android and Flutter.📱  <br>
+You can explore my work and projects on my <a href="https://portfolio.inlear.com/" target="_blank" className="text-blue-500 hover:underline">portfolio</a>.
 
 #### Tech & Platforms
 ![Android](https://img.shields.io/badge/Android-Mobile-3DDC84?style=flat-square&logo=android&logoColor=white)
